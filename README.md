@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+
 - 👋 Hi, I’m @limbocaba (but you can call me Sandy 😁)
 - 👀 I’m interested in creating apps, baseball, and playing chess
 - 🌱 I’m currently learning React, Python, & Django

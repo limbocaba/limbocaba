@@ -17,7 +17,10 @@
 <h2>The Man Behind the 0s and 1s</h2>
 <h3>Hi! My name is Sandy Caba and I am a full-stack software engineer! I love creating front-end projects as well as creating applications that can make others day-to-day activities more convenient in their daily lives. When I'm not coding away, I'm watching one of my favorite shows or playing chess.</h4\3>
 We can play a chess game by you adding me <a href="https://friend.chess.com/qiQw9" target="_blank">here</a>!
+</div>
 
+<div align="center"> 
+<img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpuTejFE.gif">
 </div>
 
 #

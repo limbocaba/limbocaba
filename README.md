@@ -20,7 +20,7 @@ We can play a chess game by you adding me <a href="https://friend.chess.com/qiQw
 </div>
 
 <div align="center"> 
-<img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpuTejFE.gif">
+<img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpuTejFE.gif" width="200">
 </div>
 
 #

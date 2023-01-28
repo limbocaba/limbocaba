@@ -61,12 +61,14 @@ We can play a chess game by you adding me <a href="https://friend.chess.com/qiQw
 <h2> What I'm Currently Learning
 </div>
 
+<div>
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />
 &nbsp;
+</div>
 
 
 <h3> If you want to collaborate or simply just have a chat, do not hesitate to reach out to me on <a href="https://www.linkedin.com/in/jorielcaba2002/" target="_blank">LinkedIn</a>! I am always happy to bounce ideas off of each other and provide feedback on projects!</h3>

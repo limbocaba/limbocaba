@@ -55,8 +55,6 @@ We can play a chess game by you adding me <a href="https://friend.chess.com/qiQw
 <img src="https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff" alt="Netlify logo" title="Netlify" height="25">
 <img src="https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000" alt="Vercel logo" title="Vercel" height="25">
 
-#
-
 <div>
 <h2> What I'm Currently Learning
 </div>

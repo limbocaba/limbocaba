@@ -1,9 +1,9 @@
 ![Snake animation](https://github.com/limbocaba/limbocaba/blob/output/github-contribution-grid-snake.svg)
 
-- 👋 Hi, I’m @limbocaba (but you can call me Sandy 😁)
-- 👀 I’m interested in creating apps, baseball, and playing chess
-- 🌱 I’m currently learning React, Python, & Django
-- 💞️ I’m looking to collaborate on any MERN projects, with UI/UX designers, or mobile games
+- 👋 Hi, I’m Sandy 
+- 👀 I love creating front-end applications, collaborating with other developers and playing Chess ♟
+- 💻 I’m currently learning Swift, Java and React Native!
+- 💞️ I’m looking to collaborate on any MERN projects and to become the best developer I can be
 - 📫 Connect and shoot me a DM on https://www.linkedin.com/in/jorielcaba2002/
 
 <!---

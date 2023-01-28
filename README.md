@@ -23,7 +23,6 @@ We can play a chess game by you adding me <a href="https://friend.chess.com/qiQw
 <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpuTejFE.gif" width="200">
 </div>
 
-#
 
 <h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Things I'm Awesome At</h1>
 
